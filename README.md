@@ -1,3 +1,2 @@
 # Invoke-PrinterNightmareCheck
-
-More code and structure to follow...
+Resources for the identification and mitigation of CVE-2021-1675
